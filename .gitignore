@@ -1,0 +1,17 @@
+#directories
+logs/**
+/**/coverage
+/**/node_modules
+/**/dl
+/**/music
+
+#passwords
+/**/*.pwd
+
+#log files
+/**/*.log
+
+#output files
+*.bundle.js
+*.csv
+/**/avatars/*
