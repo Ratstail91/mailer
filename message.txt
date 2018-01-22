@@ -1,24 +1,20 @@
-Hello!
+Hi there!
 
-You're receiving this message because you subscribed to the KR Game Studios mailing list. Reply to this address if you wish to stop receiving these messages, because this mass mailer is still cheap.
+You're receiving this message because you subscribed to the KR Game Studios mailing list. Reply to this address if you wish to stop receiving these messages, because this mass mailer is still cheap ;)
 
-So it's been a while since I wrote one of these, but I'm proud to say that I haven't been wasting (too much) time!
+So, what have I done this week? It reached the point where Cast World's Errata was overwhelming, so I incorporated it into the core files. I've also updated the rules preview to match.
 
-I've written a tabletop RPG called Cast World (short for "Can't Anyone Save The World?"). It's currently available for $2.49 USD:
+The main difference is that the prerequisites for classes has dropped from 14 to 13. This reduces the chances of being shunted into the Pauper class from 24% to 9%, which I think gives people more options. I've also removed the age restriction for Onion Knight players, and moved it to the character instead. Remember, you can get the game here:
 
 http://www.drivethrurpg.com/product/230186/Cast-World-Cant-Anyone-Save-The-World
 
-Be sure to check the errata page, because I plan on doing one massive update in March, to incorporate everything that I've added in the meantime:
-
-http://krgamestudios.com/errata.html
-
-Finally, if you're not sure if you would like my game sight unseen, I've made a short rules preview available for free:
-
 http://krgamestudios.com/dl/Rules_Preview.pdf
 
-I'm planning on adding a new adventure module once every two weeks, so please check the store page often!
+Next, I finished "The Crystal Tree", and submitted it to DriveThruRPG for review. Hopefully, the next message from me will have the official link.
 
-Thanks for reading, and I hope that you stick with me and my projects for a long time to come.
+Covers! I was planning on commissioning a really nice, but really expensive (for me) cover image. However, by pure chance I found an amazing copyright free image of a castle tower, and I've decided to start using that to grab people's attention. Here's hoping it works.
+
+Finally, I've started working on the fourth adventure module: "The Mouth Of Tiamat". This one isn't actually a narrative adventure, but rather a how-to guide on building the largest dungeon complex in Cast World: the dragon god Tiamat's dead body. I hope that sound exciting, because this module is definitely more substantial than all of the others. I now have two weeks to finish it, so wish me luck!
 
 Best regards,
 
