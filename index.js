@@ -4,7 +4,7 @@ const http = require('http');
 const mailer = require('nodemailer');
 const parse = require('csv-parse/lib/sync');
 
-var emails = ['kayneruse@gmail.com'];
+var emails = [];
 
 var successEmails = [];
 var failureEmails = [];
@@ -23,6 +23,7 @@ function getCol(matrix, col){
 
 function massMailer() {
   var self = this;
+
   transporter = mailer.createTransport({
     host: 'smtp.gmail.com',
     port: 465,
@@ -42,35 +43,44 @@ function massMailer() {
 
 massMailer.prototype.invokeOperation = function() {
   var self = this;
-  async.each(emails,self.SendEmail,function() {
-    console.log(successEmails);
-    console.log(failureEmails);
+
+  async.each(emails, self.SendEmail, function(cb) {
+//console.log('MARK 3');
+    console.log('Success:', successEmails);
+    console.log('Failure:', failureEmails);
+    cb();
   });
 }
 
 massMailer.prototype.SendEmail = function(email, cb) {
-  console.log('Sending to ' + email);
   var self = this;
-  self.status = false;
+
+  console.log('Sending to ' + email);
+
   async.waterfall([
     function(callback) {
+//console.log('MARK 0');
       var options = {
         from: 'krgamestudios@gmail.com',
         to: email,
         subject: 'KR Game Studios Update',
         text: textBody
       };
+
       transporter.sendMail(options, function(err, info) {
         if (err) {
-          console.log(err);
           failureEmails.push(email);
         }
         else {
-          self.status = true;
-          sucessEmail.push(email);
-          callback(null,self.status,email);
+//console.log('MARK 1');
+          successEmails.push(email);
         }
+        callback();
       });
+    },
+    function() {
+//console.log('MARK 2');
+      cb();
     }
   ]);
 }

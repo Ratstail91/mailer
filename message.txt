@@ -1,20 +1,12 @@
 Hi there!
 
-You're receiving this message because you subscribed to the KR Game Studios mailing list. Reply to this address if you wish to stop receiving these messages, because this mass mailer is still cheap ;)
+This week, just for you, I've created a special discount offer for Can't Anyone Save The World? and it's expansion modules!
 
-So, what have I done this week? It reached the point where Cast World's Errata was overwhelming, so I incorporated it into the core files. I've also updated the rules preview to match.
+Cast World: http://www.drivethrurpg.com/browse.php?discount=9f5477b07e
+The Beggar King: http://www.drivethrurpg.com/browse.php?discount=9f22ddf856
+The Crystal Tree: http://www.drivethrurpg.com/browse.php?discount=9f2136a026
 
-The main difference is that the prerequisites for classes has dropped from 14 to 13. This reduces the chances of being shunted into the Pauper class from 24% to 9%, which I think gives people more options. I've also removed the age restriction for Onion Knight players, and moved it to the character instead. Remember, you can get the game here:
-
-http://www.drivethrurpg.com/product/230186/Cast-World-Cant-Anyone-Save-The-World
-
-http://krgamestudios.com/dl/Rules_Preview.pdf
-
-Next, I finished "The Crystal Tree", and submitted it to DriveThruRPG for review. Hopefully, the next message from me will have the official link.
-
-Covers! I was planning on commissioning a really nice, but really expensive (for me) cover image. However, by pure chance I found an amazing copyright free image of a castle tower, and I've decided to start using that to grab people's attention. Here's hoping it works.
-
-Finally, I've started working on the fourth adventure module: "The Mouth Of Tiamat". This one isn't actually a narrative adventure, but rather a how-to guide on building the largest dungeon complex in Cast World: the dragon god Tiamat's dead body. I hope that sound exciting, because this module is definitely more substantial than all of the others. I now have two weeks to finish it, so wish me luck!
+I'm also working hard on The Mouth Of Tiamat, Cast World's companion dungeon generator! It's looking good, but my editor is a stickler for details, so it's only gonna get better!
 
 Best regards,
 
@@ -22,6 +14,5 @@ Kayne Ruse
 KR Game Studios
 http://krgamestudios.com/
 
-
-
+You're receiving this message because you subscribed to the KR Game Studios mailing list. Reply to this address if you wish to stop receiving these messages, because this mass mailer is still cheap ;)
 
