@@ -48,7 +48,6 @@ massMailer.prototype.invokeOperation = function() {
 //console.log('MARK 3');
     console.log('Success:', successEmails);
     console.log('Failure:', failureEmails);
-    cb();
   });
 }
 

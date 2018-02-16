@@ -1,12 +1,16 @@
 Hi there!
 
-This week, just for you, I've created a special discount offer for Can't Anyone Save The World? and it's expansion modules!
+So this week, I've gotten very little done with Can't Anyone Save The World? because my editor has been held up with other projects. The Mouth Of Tiamat will hopefully release soon, but I don't know when. The draft text for the fifth expansion and some content for the sixth have been written, but those still need work.
 
-Cast World: http://www.drivethrurpg.com/browse.php?discount=9f5477b07e
-The Beggar King: http://www.drivethrurpg.com/browse.php?discount=9f22ddf856
-The Crystal Tree: http://www.drivethrurpg.com/browse.php?discount=9f2136a026
+On the upside, I've been officially verified by DriveThruRPG, so I can post content without needing it reviewed.
 
-I'm also working hard on The Mouth Of Tiamat, Cast World's companion dungeon generator! It's looking good, but my editor is a stickler for details, so it's only gonna get better!
+Also, I've been working on a side project, learning how to use unity. You can find the windows build here:
+
+krgamestudios.com/dl/Legend.rar
+
+There's not much there, just a bunch of chickens you can pick up and attack with the space key. I really need to split that into two different keys, but I'm working on pathfinding for a fox as well. Who knows if this will go anywhere...
+
+Finally, I'm sending this message on a Friday, because I've forgotten to send messages on Mondays lately. Not good. Hopefully I'll get back into the habit of it. Thanks for sticking with me anyway.
 
 Best regards,
 
